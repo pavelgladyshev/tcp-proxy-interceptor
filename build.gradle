@@ -20,6 +20,6 @@ test {
 
 jar {
     manifest {
-        attributes 'Main-Class': 'com.ucd.Main'
+        attributes 'Main-Class': 'Main'
     }
 }
